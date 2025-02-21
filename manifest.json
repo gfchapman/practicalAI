@@ -1,0 +1,21 @@
+{
+  "name": "CanShop - Tariff Buster",
+  "short_name": "CanShop",
+  "description": "Scan and analyze product tariffs.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/canshop-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/canshop-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
